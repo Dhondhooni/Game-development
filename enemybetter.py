@@ -1,5 +1,3 @@
-from email.mime import image
-from turtle import pos
 import pygame
 pygame.init
 
