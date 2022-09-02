@@ -1,6 +1,4 @@
 from re import X
-from tkinter import Y
-from typing_extensions import Self
 import pygame
 import enum
 import numpy as np
